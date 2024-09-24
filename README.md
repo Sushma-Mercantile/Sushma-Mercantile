@@ -12,7 +12,7 @@
 -->
 - 🌱 I’m currently learning **Nuxt.js**
 - 💬 Ask me about **states, stores, and more**
-- 😄 Pronouns: **She**
+- 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I am a foodie. I code, design, and cook up a storm**
 
 ## 📊 Current Streaks
